@@ -202,6 +202,13 @@ ul li {
     max-width: 270px;
 }
 
+.news-item__content a {
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #7b0200;
+}
+
 
 /* content-left-cate  */
 
@@ -871,9 +878,11 @@ ul li {
     /* article */
     .article-content {
         padding: 10px 15px;
+        text-decoration: none;
     }
     .article-header {
         font-size: 15px;
+        text-decoration: none;
     }
     .article-text {
         font-size: 13px;

@@ -349,6 +349,12 @@ ul li {
     padding: 7px 0 7px;
 }
 
+.vote2 {
+    text-decoration: none;
+    display: flex;
+    padding: 7px 0 7px;
+}
+
 .vote ion-icon {
     margin-right: 3px;
 }
@@ -540,6 +546,11 @@ ul li {
     color: #7b0200;
 }
 
+.text-content-2 a {
+    text-decoration: none;
+    color: #7b0200;
+}
+
 .content-mid-2 .text-content-bot-2 {
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
@@ -551,6 +562,11 @@ ul li {
     height: 50px;
     margin-top: 30px;
     text-align: center;
+}
+
+.text-box3 a {
+    text-decoration: none;
+    color: #7b0200;
 }
 
 .see-more {

@@ -306,6 +306,11 @@ a {
   display: block; */
 }
 
+.spa-info a {
+    text-decoration: none;
+    color: #000;
+}
+
 .box-tittle {
     background-color: #ebebeb;
     padding: 10px;
@@ -342,12 +347,20 @@ a {
 }
 
 .vote {
+    text-decoration: none;
     display: flex;
     padding: 7px 0 7px;
+    margin-top: -20px;
 }
 
 .vote ion-icon {
     margin-right: 3px;
+}
+
+.vote2 {
+    text-decoration: none;
+    display: flex;
+    padding: 7px 0 7px;
 }
 
 .box-tittle .text {
@@ -544,6 +557,11 @@ a {
     background-color: #ffffff;
 }
 
+.text-content-2 a {
+    text-decoration: none;
+    color: #7b0200;
+}
+
 @font-face {
     font-family: "Myr";
     src: url(../fonts/MYRIADPRO-LIGHTSEMIEXT_0.ttf);
@@ -567,6 +585,11 @@ a {
     height: 50px;
     margin-top: 30px;
     text-align: center;
+}
+
+.text-box3 a {
+    text-decoration: none;
+    color: #7b0200;
 }
 
 .see-more {
